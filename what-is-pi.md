@@ -36,9 +36,9 @@ Pi is not just a coding agent CLI. It is a toolkit and runtime for agentic workf
 ```mermaid
 graph TD
     subgraph User Interfaces
-        TUI[Terminal UI (pi-tui)]
-        WebUI[Web UI (pi-web-ui)]
-        Slack[Slack Bot (pi-mom)]
+        TUI[Terminal UI pi-tui]
+        WebUI[Web UI pi-web-ui]
+        Slack[Slack Bot pi-mom]
     end
     subgraph Core
         CodingAgent[pi-coding-agent]
@@ -249,9 +249,9 @@ graph TD
 ```mermaid
 graph TD
     subgraph User Interfaces
-        TUI[Terminal UI (pi-tui)]
-        WebUI[Web UI (pi-web-ui)]
-        Slack[Slack Bot (pi-mom)]
+        TUI[Terminal UI pi-tui]
+        WebUI[Web UI pi-web-ui]
+        Slack[Slack Bot pi-mom]
     end
     subgraph Core
         CodingAgent[pi-coding-agent]
